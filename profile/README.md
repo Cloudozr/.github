@@ -17,8 +17,8 @@ This organization is a solo-driven initiative dedicated to innovative software d
 
 ## 📂 Featured Repositories
 Take a look at the key projects in this organization:
-1. **[HookedIn]**: Social media platform for carp anglers and angling community.
-2. **[JobSync]**: Management application for streamlined work scheduling and coordination.
+1. **[HookedIn]**: 
+2. **[JobSync]**: 
 3. **[Portal 257]**: News application for my local county.
 
 ## 🤝 Contributions
