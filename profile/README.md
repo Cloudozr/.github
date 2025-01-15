@@ -4,10 +4,11 @@ This organization is a solo-driven initiative dedicated to innovative software d
 
 ## 🌟 Areas of Expertise
 - **Mobile App Development**: Building seamless cross-platform applications with Kotlin Multiplatform for Android and iOS.  
-- **Backend Development**: Designing robust and scalable APIs and services.  
-- **Cloud**: Leveraging cloud platforms to build scalable and reliable systems.  
-- **DevOps**: Automating infrastructure, CI/CD pipelines, and monitoring solutions.  
+- **Backend Development**: Designing robust and scalable APIs and services.
+- **Server**: Developing high-performance server solutions for scalable applications.
+- **Cloud**: Leveraging cloud platforms to build scalable and reliable systems.
 - **Database Management**: Designing and optimizing efficient, secure, and scalable databases.
+- **DevOps**: Automating infrastructure, CI/CD pipelines, and monitoring solutions.  
 
 
 ## 🎯 Goals
