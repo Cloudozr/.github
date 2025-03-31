@@ -21,7 +21,8 @@ Take a look at the key projects in this organization:
 1. **HookedIn**:
 2. **TrophyTalk**: 
 3. **JobSync**:
-4. **Portal 257**: News application for my local county.
+4. **PlantWatch(LiveLink)**
+5. **Portal 257**: News application for my local county.
 
 ## 🤝 Contributions
 As this is a solo-driven organization for now, contributions are currently closed. However, feel free to check out the projects and raise issues or ideas via the repositories!
