@@ -1,4 +1,4 @@
-# Welcome to Cloudify 🚀
+# Welcome to Cloudivy 🚀
 
 This organization is a solo-driven initiative dedicated to innovative software development and exploring a wide range of modern technologies. Here, you’ll find projects that reflect my passion for crafting impactful solutions across various domains.
 
