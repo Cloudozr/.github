@@ -16,13 +16,16 @@ This organization is a solo-driven initiative dedicated to innovative software d
 - Continuously explore and adopt cutting-edge technologies.
 - Share knowledge and contribute to the tech community.
 
-## 📂 Featured Repositories
+## 📱 Clouodzr Applications
 Take a look at the key projects in this organization:
-1. **HookedIn**:
-2. **TrophyTalk**: 
-3. **JobSync**:
-4. **Ballero**:
-5. **Portal 257**: News application for my local county.
+1. **Portal 257**: News application for my local county.
+<!--
+1. **Moja Općina**:
+2. **HookedIn**:
+3. **Ballero**:
+4. **TrophyTalk**: 
+5. **JobSync**:
+-->
 
 ## 🤝 Contributions
 As this is a solo-driven organization for now, contributions are currently closed. However, feel free to check out the projects and raise issues or ideas via the repositories!
