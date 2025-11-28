@@ -18,7 +18,7 @@ This organization is a solo-driven initiative dedicated to innovative software d
 
 ## 📱 Clouodzr Applications
 Take a look at the key projects in this organization:
-1. **Portal 257**: News application for my local county.
+1. **Portal 257**: News application for my local municipality.
 <!--
 1. **Moja Općina**:
 2. **HookedIn**:
